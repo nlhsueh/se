@@ -15,3 +15,5 @@
 * [Architecture design](ch01.md)
 * [Design and implementation](ch01.md)
 * [UX design](ch01.md)
+
+[Olympic](./dist/index.html)
