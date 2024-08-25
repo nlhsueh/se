@@ -1,7 +1,7 @@
 # Software Engineering
 
 ## Part I Introduction
-* [Introduction](se_book/ch01.md)
+* [Introduction](docs/ch01.md)
 * [Process](ch01.md)
 * [Agile method](ch01.md)
 
